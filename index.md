@@ -1,5 +1,5 @@
 ---
-title: Your Name
+title: Silas Grant
 layout: nav-profile
 date: 2024-12-02
 ---
@@ -7,8 +7,7 @@ date: 2024-12-02
 
 # Your Name
 
-This is your homepage — the first thing visitors see. Write two or three sentences that introduce who you are and what you do. Think of it as a brief professional statement: your field, your focus, and what makes your work distinctive. Keep it short; the cards below link to your other pages where you can go into depth.
-
+I am a scholar of technoscience, empire, and gender & sexuality. My research is broadly concerned with environmental justice and the politics of knowledge in the Southwestern United States. I am currently Visiting Assistant Professor in the Department of American Studies and affiliate faculty in the Department of Geography & Environmental Studies at the University of New Mexico. I am based on Tiwa lands in Albuquerque, New Mexico. 
 ---
 
 The cards below are generated automatically from your other pages. Each page that has `homepage: true` in its front matter will appear here as a card. The card's title, summary text, and thumbnail image all come from that page's front matter:
